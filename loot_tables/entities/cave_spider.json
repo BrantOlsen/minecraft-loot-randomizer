@@ -51,11 +51,6 @@
           ],
           "name": "minecraft:spider_eye"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
-        }
       ]
     }
   ]

@@ -34,11 +34,6 @@
           ],
           "name": "minecraft:emerald"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
-        }
       ]
     }
   ]

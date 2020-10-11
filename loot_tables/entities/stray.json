@@ -82,11 +82,6 @@
           ],
           "name": "minecraft:tipped_arrow"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
-        }
       ]
     }
   ]

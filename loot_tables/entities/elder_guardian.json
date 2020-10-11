@@ -84,11 +84,6 @@
           "type": "minecraft:item",
           "name": "minecraft:wet_sponge"
         }
-      ],
-      "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
-        }
       ]
     },
     {
@@ -100,9 +95,6 @@
         }
       ],
       "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
-        },
         {
           "condition": "minecraft:random_chance_with_looting",
           "chance": 0.025,
